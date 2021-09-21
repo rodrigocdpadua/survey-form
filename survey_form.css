@@ -1,0 +1,37 @@
+.container{
+  margin: 50px auto 0 auto;
+  width: 100%;
+}
+.titles{
+  text-align: center;
+}
+.form-box{
+  margin: auto;
+  padding: 30px 30px 30px 30px;
+  width: 50%;
+}
+.element-form{
+  margin: 0 auto 20px auto;
+}
+.input-text{
+  width: 100%;
+  box-sizing: border-box;
+}
+.select-option{
+  width: 100%;
+  box-sizing: border-box;
+}
+.input-box-text{
+  width: 100%;
+  height: 100px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+.submit-button{
+  width: 100%;
+
+}
+label{
+  display: flex;
+  margin-bottom: 10px;
+}
